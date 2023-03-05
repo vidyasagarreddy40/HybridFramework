@@ -1,0 +1,430 @@
+19:36:21.301 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeTest: Initialising the browser
+19:36:23.774 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+19:46:23.952 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeTest: Initialising the browser
+19:46:26.226 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+19:46:26.226 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Button_click: signIn is clicked
+19:50:18.219 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeTest: Initialising the browser
+19:50:20.539 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:10:01.016 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeTest: Initialising the browser
+20:13:06.039 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeTest: Initialising the browser
+20:15:33.351 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeTest: Initialising the browser
+20:15:35.753 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:16:30.010 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeTest: Initialising the browser
+20:16:32.244 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:16:38.198 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:17:00.966 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeTest: Initialising the browser
+20:17:03.354 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:17:09.330 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:18:21.043 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:18:23.234 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:18:24.685 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:18:28.269 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:18:28.561 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:18:56.061 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:18:58.074 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:19:00.062 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:19:02.322 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:19:02.603 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:23:45.649 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:23:47.947 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:23:49.992 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:23:52.252 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:23:52.589 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:24:39.067 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:24:41.279 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:24:43.281 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:24:45.579 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:24:45.849 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:25:26.682 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:25:29.275 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:25:51.815 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:25:54.758 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:27:20.992 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:28:30.569 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:28:32.919 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:28:36.115 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:28:38.472 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:29:23.358 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:29:25.730 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:29:30.386 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:29:32.627 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:29:35.847 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+20:30:14.441 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:30:16.664 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:30:18.664 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:30:42.975 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:30:45.204 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:30:47.226 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:30:49.554 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:30:49.827 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+20:30:49.905 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:31:29.627 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:31:31.857 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:31:33.873 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:31:36.063 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:31:36.167 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+20:31:36.373 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+20:32:15.616 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:32:17.900 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:32:19.952 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:32:22.130 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:32:22.337 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+20:32:22.437 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+20:34:38.238 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:34:41.035 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:34:43.011 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+20:34:45.507 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+20:34:45.668 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+20:34:45.826 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+21:35:05.007 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:35:08.913 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:35:10.887 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:35:14.117 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:35:14.208 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+21:35:14.272 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+21:39:22.600 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:39:25.723 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:39:27.856 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:39:31.786 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:39:32.142 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+21:39:32.362 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+21:55:03.398 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:55:07.220 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:55:43.952 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:55:47.004 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:55:58.829 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:56:02.811 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:56:50.239 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:56:54.915 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:57:44.781 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:57:47.846 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:57:56.772 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:58:00.042 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:58:02.927 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+21:59:22.715 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:59:25.154 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:59:29.788 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+21:59:33.089 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+21:59:36.399 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+21:59:57.936 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:00:01.012 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:00:25.447 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:00:28.353 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:01:16.106 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:01:19.936 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:01:24.568 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:01:27.284 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:03:25.275 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:03:28.863 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:03:33.817 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:03:36.706 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:04:10.520 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+22:05:37.266 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:05:41.131 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:05:43.109 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:05:46.554 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:05:47.054 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+22:13:59.726 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:14:03.548 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:14:05.497 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:14:08.959 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:14:09.263 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+22:15:05.726 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:15:21.154 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:15:23.183 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:15:41.528 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:15:46.963 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+22:16:15.255 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:16:24.059 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:16:43.472 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:16:51.514 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:16:59.839 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+22:17:20.560 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:17:24.151 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:17:29.246 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:17:32.604 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:18:28.314 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:18:32.537 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:18:34.527 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:18:40.842 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:23:40.300 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:23:44.778 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:23:46.813 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:23:49.955 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:24:02.305 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: webElementHelper_waitForInvisibilityOfElement: failed to identify the By.xpath: //input[@type='emai' and @id='identifierId'] in Gmail /norg.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@type='emai' and @id='identifierId'] (tried for 5 second(s) with 500 milliseconds interval)
+22:24:18.104 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:24:33.929 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:24:35.812 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:24:50.479 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:25:30.027 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: webElementHelper_waitForInvisibilityOfElement: failed to identify the By.xpath: //input[@type='emai' and @id='identifierId'] in Gmail /norg.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@type='emai' and @id='identifierId'] (tried for 5 second(s) with 500 milliseconds interval)
+22:25:39.741 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+22:27:37.932 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:27:40.990 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:27:42.974 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:27:46.032 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:27:51.628 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: webElementHelper_waitForInvisibilityOfElement: failed to identify the By.xpath: //input[@type='emai' and @id='identifierId'] in Gmail /norg.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@type='emai' and @id='identifierId'] (tried for 5 second(s) with 500 milliseconds interval)
+22:27:51.735 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+22:31:43.022 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:31:46.662 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:31:48.617 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:31:52.017 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:32:13.072 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: webElementHelper_waitForInvisibilityOfElement: failed to identify the By.xpath: //input[@type='emai' and @id='identifierId'] in Gmail /norg.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@type='emai' and @id='identifierId'] (tried for 5 second(s) with 500 milliseconds interval)
+22:32:18.214 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: webElementHelper_waitForInvisibilityOfElement: failed to identify the By.xpath: //input[@type='emai' and @id='identifierId'] in Gmail /norg.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@type='emai' and @id='identifierId'] (tried for 5 second(s) with 500 milliseconds interval)
+22:32:19.177 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: webElementHelper_waitForInvisibilityOfElement: failed to identify the By.xpath: //input[@type='emai' and @id='identifierId'] in Gmail /norg.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@type='emai' and @id='identifierId'] (tried for 5 second(s) with 500 milliseconds interval)
+22:32:21.390 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: webElementHelper_waitForInvisibilityOfElement: failed to identify the By.xpath: //input[@type='emai' and @id='identifierId'] in Gmail /norg.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@type='emai' and @id='identifierId'] (tried for 5 second(s) with 500 milliseconds interval)
+22:32:38.487 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: webElementHelper_waitForInvisibilityOfElement: failed to identify the By.xpath: //input[@type='emai' and @id='identifierId'] in Gmail /norg.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@type='emai' and @id='identifierId'] (tried for 5 second(s) with 500 milliseconds interval)
+22:32:42.135 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+22:35:31.623 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:35:34.206 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:35:36.265 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:35:39.679 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:36:01.766 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: webElementHelper_waitForInvisibilityOfElement: failed to identify the By.xpath: //input[@type='emai' and @id='identifierId'] in Gmail /norg.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@type='emai' and @id='identifierId'] (tried for 5 second(s) with 500 milliseconds interval)
+22:36:12.373 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+22:36:52.999 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:36:56.450 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:36:58.476 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+22:37:01.142 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+22:37:01.592 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+12:19:11.436 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+12:19:14.620 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+12:19:16.952 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+12:19:19.630 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+12:19:20.330 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:16:10.841 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:16:18.229 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:16:20.440 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:16:29.043 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:16:29.648 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+15:29:42.751 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:29:47.179 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:29:49.561 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:29:53.635 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:29:54.209 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+15:30:15.401 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:30:18.611 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:30:20.919 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:30:24.554 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:31:20.739 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:31:24.394 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:31:26.809 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:31:30.442 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:31:31.038 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+15:31:50.028 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:32:05.001 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:32:07.339 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:32:11.264 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:32:44.368 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+15:33:18.225 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:33:21.737 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:33:24.021 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:33:27.562 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:34:38.273 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:34:49.858 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:34:52.035 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:35:00.564 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:50:13.886 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:50:19.175 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:50:21.742 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:50:25.588 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:50:26.304 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+15:50:52.561 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:50:55.771 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:50:58.151 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:51:03.173 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:51:53.899 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+15:53:40.916 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:53:50.554 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:53:52.958 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:54:02.210 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:54:17.658 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 30
+15:54:21.198 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 30
+15:54:21.754 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 30
+15:54:25.196 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 30
+15:54:53.260 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+15:56:01.829 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:56:05.024 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:56:07.468 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:56:10.256 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:56:37.251 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 30
+15:57:06.135 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+08:18:06.998 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+08:18:09.504 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+08:18:11.533 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+08:18:13.871 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+08:18:26.303 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 30
+08:22:11.391 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+08:22:13.526 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+08:22:15.543 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+08:22:17.567 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+08:22:25.563 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 33
+08:24:13.607 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+08:24:15.996 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+08:24:18.033 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+08:24:20.140 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:02:01.382 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+13:02:07.102 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:02:09.581 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+13:02:14.097 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:02:58.169 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+13:03:02.589 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:03:04.559 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+13:03:09.745 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:04:10.785 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+13:04:15.243 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:04:17.275 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+13:04:21.469 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:04:43.173 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+13:05:20.365 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+13:05:25.243 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:05:27.185 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+13:05:31.190 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:05:31.504 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 33
+13:05:31.685 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+13:05:47.294 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+13:05:52.465 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:05:54.457 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+13:06:00.069 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+13:06:00.379 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 33
+13:06:00.448 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:11:46.038 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:11:51.389 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:11:51.837 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:13:14.119 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:13:20.788 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:13:21.267 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:19:36.184 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:19:42.447 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:20:00.338 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:20:26.493 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:20:29.987 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:20:31.922 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:20:35.818 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:23:53.831 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:31:50.146 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:31:55.539 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:31:57.493 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:32:01.335 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:32:01.798 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:32:50.951 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:32:56.607 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:32:58.596 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:33:02.222 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:33:02.312 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+14:33:02.375 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:33:22.044 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:33:29.846 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:33:31.769 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:33:37.529 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:33:37.620 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+14:33:37.687 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:33:53.427 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:34:13.520 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:34:13.622 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+14:34:13.691 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+11:46:19.671 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:46:22.162 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:46:44.064 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+11:46:53.745 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+11:47:34.775 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:47:38.025 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:47:46.994 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+11:47:50.958 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+11:48:14.845 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:48:18.067 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:48:20.139 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:48:22.726 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:48:24.929 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+11:48:25.086 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+11:49:19.889 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:49:22.843 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:49:24.810 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:49:27.350 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:49:29.328 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+11:49:29.502 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+11:49:57.024 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:49:59.258 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:50:01.280 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:50:04.080 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:50:04.174 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: sdfsd@gmail.com is entered in EmailOrPhone
+11:50:04.381 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+11:53:16.729 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:53:19.238 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:53:21.314 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:53:23.806 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:53:24.249 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 33
+11:58:42.440 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:58:44.800 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:58:46.816 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:58:49.153 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:58:49.585 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 33
+11:58:49.666 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+11:59:36.741 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:59:39.831 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:59:41.812 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+11:59:45.312 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+11:59:45.551 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 33
+11:59:45.727 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+12:00:16.776 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+12:00:20.840 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+12:00:45.652 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+12:00:49.346 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+12:00:51.333 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+12:00:55.006 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+12:00:55.327 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 33
+12:00:55.424 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+12:02:08.756 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+12:02:12.251 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+12:02:14.218 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+12:02:17.734 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+12:02:18.072 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thesdfsd@gmail.com in EmailOrPhone/njava.lang.ArrayIndexOutOfBoundsException: 33
+12:02:18.155 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:30:30.363 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:30:34.400 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:30:36.788 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:30:41.121 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:31:32.181 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thenull in EmailOrPhone/njava.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+14:31:32.353 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:32:28.281 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:32:32.077 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:32:34.415 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:32:38.087 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:34:18.448 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thenull in EmailOrPhone/njava.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+14:34:18.592 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:34:29.633 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:34:33.447 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:34:35.477 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:34:39.768 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:34:40.326 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: vidyasagar@gmail.com is entered in EmailOrPhone
+14:34:40.403 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:47:34.314 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:47:38.870 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:47:41.191 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:47:45.058 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:49:04.409 [main] ERROR utilities.loggerlogs - RP_MESSAGE#FILE##chrome 108.0.5359.125: Textbox_text: failed to enter thenull in EmailOrPhone/njava.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+14:49:04.482 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked
+14:49:17.020 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:49:21.966 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:49:24.107 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:49:27.739 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:51:44.278 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:51:48.634 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:51:51.399 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:51:55.284 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:52:48.773 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:52:53.293 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:52:56.061 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:53:00.134 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:56:33.679 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:56:38.459 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:56:42.348 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:56:47.072 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:57:41.066 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:57:49.677 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+14:57:54.176 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+14:58:00.239 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:00:19.737 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:00:24.949 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:00:29.246 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: TestBase_beforeMethod: Initialising the browser
+15:00:34.979 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: signIn is clicked
+15:01:50.817 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Textbox_text: vidyasagar@gmail.com is entered in EmailOrPhone
+15:01:51.091 [main] INFO  utilities.loggerlogs - chrome 108.0.5359.125: Button_click: next is clicked

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="96515" started-at="2023-01-03T15:00:16 IST" finished-at="2023-01-03T15:01:52 IST">
+    <groups>
+    </groups>
+    <test name="learningframework" duration-ms="96515" started-at="2023-01-03T15:00:16 IST" finished-at="2023-01-03T15:01:52 IST">
+      <class name="functionalSuite.signUp">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:functionalSuite.signUp@4c4d27c8]" name="beforesuite" is-config="true" duration-ms="445" started-at="2023-01-03T15:00:15 IST" finished-at="2023-01-03T15:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:functionalSuite.signUp@4c4d27c8]" name="beforeTest" is-config="true" duration-ms="1" started-at="2023-01-03T15:00:16 IST" finished-at="2023-01-03T15:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:functionalSuite.signUp@4c4d27c8]" name="beforeMethod" is-config="true" duration-ms="6666" started-at="2023-01-03T15:00:16 IST" finished-at="2023-01-03T15:00:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=signUp.LandingPageVerification()[pri:0, instance:functionalSuite.signUp@4c4d27c8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LandingPageVerification()[pri:0, instance:functionalSuite.signUp@4c4d27c8]" name="LandingPageVerification" duration-ms="2032" started-at="2023-01-03T15:00:22 IST" finished-at="2023-01-03T15:00:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LandingPageVerification -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:functionalSuite.signUp@4c4d27c8]" name="afterMethod" is-config="true" duration-ms="2176" started-at="2023-01-03T15:00:24 IST" finished-at="2023-01-03T15:00:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LandingPageVerification status=SUCCESS method=signUp.LandingPageVerification()[pri:0, instance:functionalSuite.signUp@4c4d27c8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:functionalSuite.signUp@4c4d27c8]" name="beforeMethod" is-config="true" duration-ms="5873" started-at="2023-01-03T15:00:27 IST" finished-at="2023-01-03T15:00:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=signUp.signing()[pri:0, instance:functionalSuite.signUp@4c4d27c8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signing()[pri:0, instance:functionalSuite.signUp@4c4d27c8]" name="signing" duration-ms="78078" started-at="2023-01-03T15:00:33 IST" finished-at="2023-01-03T15:01:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signing -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:functionalSuite.signUp@4c4d27c8]" name="afterMethod" is-config="true" duration-ms="929" started-at="2023-01-03T15:01:51 IST" finished-at="2023-01-03T15:01:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signing status=SUCCESS method=signUp.signing()[pri:0, instance:functionalSuite.signUp@4c4d27c8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:functionalSuite.signUp@4c4d27c8]" name="afterTest" is-config="true" duration-ms="636" started-at="2023-01-03T15:01:52 IST" finished-at="2023-01-03T15:01:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- functionalSuite.signUp -->
+    </test> <!-- learningframework -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

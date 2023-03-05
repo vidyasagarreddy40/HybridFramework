@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="learningframework(failed)">
+    <classes>
+      <class name="functionalSuite.signUp">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforesuite"/>
+          <include name="afterMethod"/>
+          <include name="signing"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- functionalSuite.signUp -->
+    </classes>
+  </test> <!-- learningframework(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
